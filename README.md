@@ -4,8 +4,8 @@
 
 ## Just understand the basic concepts well about the several azure services and tools about what is it, when to use, why to use and scenario based issues to be solved using them. If you know the concepts well and for online practice test if you have covered all practice questions from the Alan's Course, you can easily crack the exam.
 
-## For more help on exam preparation the course I will recommend is - Instructor Alan Rodrigues DP-203 course
-couse link:-  https://www.udemy.com/course/data-engineering-on-microsoft-azure/
-## Instructor Ishant Garg Course Link:- https://www.udemy.com/course/dp200exam/
+## For more help on exam preparation the course I will recommend is - 
+## Instructor Alan Rodrigues DP-203 Course link:-  https://www.udemy.com/course/data-engineering-on-microsoft-azure/
+## Instructor Ishant Garg Course link:- https://www.udemy.com/course/dp200exam/
 
 ## Good Luck!
