@@ -1,6 +1,7 @@
 # Microsoft-DP-203-Azure-Data-Engineer-Associate-Preparation
 ## Dear Readers! 
-## If you find any of the answers from the dumps confusing or wrong kindly follow up and stick to the concepts not the answers. Ihave gathered these from several sources
+## Note:-
+**If you find any of the answers from the dumps confusing or wrong kindly follow up and stick to the concepts not only the answers. I have collected these materials from several sources and due to time contraints I could not update these materials. But, no need to worry yo can go through them if you have time and want to know and cover everything in detail, otherwise you can enroll the following course, know the concepts properly and attempt the practice questions, you can pass the exam.
 
 ## For more help on exam preparation the course I will recommend is - Instructor Alan Rodrigues DP-203 course
 https://www.udemy.com/course/data-engineering-on-microsoft-azure/
