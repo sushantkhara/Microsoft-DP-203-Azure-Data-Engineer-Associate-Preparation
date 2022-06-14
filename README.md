@@ -6,5 +6,6 @@
 
 ## For more help on exam preparation the course I will recommend is - Instructor Alan Rodrigues DP-203 course
 couse link:-  https://www.udemy.com/course/data-engineering-on-microsoft-azure/
+## Instructor Ishant Garg Course Link:- https://www.udemy.com/course/dp200exam/
 
 ## Good Luck!
